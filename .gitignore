@@ -1,3 +1,5 @@
 *.zip
-*/build
+**/build
 **/__pycache__
+**/*.tex
+**/*.png
