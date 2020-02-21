@@ -2,4 +2,4 @@
 **/build
 **/__pycache__
 **/*.tex
-**/*.png
+**/figures
