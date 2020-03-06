@@ -5,5 +5,6 @@
 - TP3: Neighborhood descriptors
 - TP4: Rendering
 - TP5: Surface reconstruction
+- TP6: Modelling
 
 Take a look at the [course website](http://caor-mines-paristech.fr/fr/cours-npm3d/) for more information.
